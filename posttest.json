@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1: Calculate the hall voltage when the magnetic field is 8 A/m current is 4 A, width is 5m and the concentration of carrier is 1020 ?",
+      "answers": {
+        "a": "4.125 V",
+        "b": "0.312 V",
+        "c": "4.2 V",
+        "d": "0.4 V"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2: A hall's effect pick-up can be used for measuring ?",
+      "answers": {
+        "a": "magnetic flux",
+        "b": "pressure",
+        "c": "current",
+        "d": "relative humidity"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+{
+"question": "3: The Hall effect ?",
+      "answers": {
+        "a": "is a phenomenon with no practical applications",
+        "b": "is used in various sensor applications",
+        "c": "can develop potentials of thousands of volts",
+        "d": "is the basis for solar cell operation"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
