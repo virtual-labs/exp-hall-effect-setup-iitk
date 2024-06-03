@@ -16,14 +16,16 @@ First, a constant electric current is passed through the sample, and the magneti
 The carrier density can then be determined from the Hall coefficient and the mobility can be calculated from the ratio of the electrical conductivity to the carrier density. These parameters provide important information about the material's electronic properties and can be used to differentiate between different types of semiconductors, such as p-type and n-type.<br><br>
 In summary, the Hall effect setup is used to study the electronic properties of a given semiconductor material by determining the Hall coefficient, carrier density, and mobility, which provide valuable information about the material's behavior and performance in various applications.<br><br>
 
-<b>Name of Developer | <b>  Dr. Ashutosh Tiwari 
+<b>Name of Developer | <b> Adarsh Singh 
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College Banda 
-<b> Email id|     <b> ashutosh.tiwari@recbanda.ac.in
-<b> Department |  Applied Science and Humanities
+<b> Email id|     <b> adarshsingh2508@gmail.com 
+<b> Department |  Information Technology
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Adarsh Singh | Student| Information Technology | Rajkiya Engineering College Banda |adarshsingh2508@gmail.com
+1 | Dr. Ashutosh Tiwari| Faculty | Applied Science and Humanities  | Rajkiya Engineering College Banda | ashutosh.tiwari@recbanda.ac.in
+2 | Adarsh Singh | Student| Information Technology | Rajkiya Engineering College Banda |adarshsingh2508@gmail.com
+3 | Rahul Pushpakar| Student | Mechanical Engineering  | Rajkiya Engineering College Banda | rahulpushpker@gmail.com
