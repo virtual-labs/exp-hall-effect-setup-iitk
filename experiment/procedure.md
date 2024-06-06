@@ -43,7 +43,7 @@ Select <b>Magnetic field Vs Current from</b> the procedure combo-box.
   
  
 
-  <li>Placing the probe in between the solenoid by clicking the wooden stand in the simulator.</li>
+  <li>Placing the probe in between the solenoid by clicking the probe in the simulator.</li>
  
 
 <li>Using Current slider, varying the current through the solenoid and corresponding magnetic field is to be noted from Gauss meter.</li>
