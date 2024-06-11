@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What physical phenomenon occurs when a current-carrying conductor or semiconductor is subjected to a perpendicular magnetic field?",
+      "answers": {
+        "a": "Faraday's Law",
+        "b": "Ampère's Law",
+        "c": "Hall Effect",
+        "d": "Coulomb's Law"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "The Hall Effect is the physical phenomenon observed when a current-carrying conductor or semiconductor is introduced to a perpendicular magnetic field, resulting in the generation of a measurable voltage perpendicular to both the current path and the magnetic field direction.",
+        "d": "Explanation 1 "
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. In the Hall Effect, what does 'I' represent in the formula for Hall voltage?",
+      "answers": {
+        "a": "Thickness of the sensor",
+        "b": "Charge of the carrier",
+        "c": "Current flowing through the sensor",
+        "d": "Number of charge carriers per unit volume"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": " 'I' in the formula for Hall voltage represents the current flowing through the sensor. This current interacts with the magnetic field to produce the Hall effect.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+{
+"question": "3. What force is responsible for deflecting charge carriers in the Hall Effect?",
+      "answers": {
+        "a": "Gravitational force",
+        "b": "Electromagnetic force",
+        "c": "Coulombic force",
+        "d": "Lorentz force"
+      },
+      "explanations": {
+        "a": "Explanation 1  ",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "The Lorentz force, which is the force experienced by a charged particle in a magnetic field, is responsible for deflecting charge carriers in the Hall Effect."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. How does the Hall voltage develop in a conductor or semiconductor subjected to a magnetic field?",
+      "answers": {
+        "a": "Due to the accumulation of charge carriers",
+        "b": "Due to the depletion of charge carriers",
+        "c": "Due to the acceleration of charge carriers",
+        "d": "Due to the deflection of charge carriers"
+      },
+      "explanations": {
+        "a": " When a conductor or semiconductor is subjected to a magnetic field, the Lorentz force causes charge carriers to accumulate on opposite sides of the material, resulting in the development of a Hall voltage.",
+        "b": "Explanation 2",
+        "c": "Explanation 1  ",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What property of the charge carriers affects the magnitude of the Hall voltage?",
+      "answers": {
+        "a": "Charge of the carrier",
+        "b": "Thickness of the sensor",
+        "c": "Crystal structure of the material",
+        "d": " Density of the magnetic field"
+      },
+      "explanations": {
+        "a": " The charge of the carrier directly affects the magnitude of the Hall voltage. A higher charge leads to a higher Hall voltage, all other factors being equal.",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

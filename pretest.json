@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.Hall effect is useful for the measurement of a semiconductor's?",
+      "answers": {
+        "a": "mobility, carrier concentration and temperature",
+        "b": "type (n-type or p-type), conductivity and temperature",
+        "c": "type (n-type or p-type), mobility and carrier concentration",
+        "d": "mobility, conductivity and temperature"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Measurement of Hall coefficient enables the determination of:",
+      "answers": {
+        "a": "Temperature coefficient and thermal conductivity",
+        "b": "Mobility and concentration of charge carriers",
+        "c": " Fermi level and forbidden energy gap",
+        "d": " none of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "3.current in the conductor, and to an applied perpendicular to the current. field?",
+      "answers": {
+        "a": "parallel, electric",
+        "b": "transverse, electric",
+        "c": "parallel, magnetic",
+        "d": "transverse, magnetic "
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
