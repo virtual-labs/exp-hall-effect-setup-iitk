@@ -33,6 +33,7 @@ body{
   margin-left: 20px;
   padding: 8px 8px 8px 32px;
   color:rgb(7, 7, 7);
+
 }
 .sidepanel a {
   padding: 8px 8px 8px 32px;
@@ -120,10 +121,11 @@ body{
 }
 li{
   margin:10px;
+  font-size: 15px;
 }
 .mainSvg{
     padding: 1em;
-    margin: 8em;
+    margin: 6em;
     border: 10px solid rgb(202, 223, 21);
     box-shadow:2px 2px 5px 4px rgba(14, 7, 7, 0.61);
     border-radius: 10px;
@@ -165,6 +167,7 @@ th{
   }
   td{
     border: 0px;
+    font-size: 25px;
   }
 
   label{

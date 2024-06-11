@@ -123,3 +123,33 @@ function openNav() {
 function closeNav() {
   document.getElementById("mySidepanel").style.width = "0";
 }
+
+
+
+// table
+let gussdis=0;
+let sn=0;
+let table = document.getElementById("tab1")
+var count = 0;
+const procedure = () => {
+sn=sn+1;
+gussdis=gauss.toFixed(4);
+
+// tomoveCampass('movecompass');
+    table.innerHTML += `<tr>
+                <td id='r${count}c0' width=60px></td>
+                <td id='r${count}c1' width=60px></td>
+                <td id='r${count}c2' width=60px></td>
+                
+  </tr>`
+    var data = new Array();
+    data.push(sn);
+    data.push(ammeter1);
+    data.push(gussdis);
+    
+    // console.log(data[0]);
+    for (i = 0; i < data.length; i++) {
+        document.getElementById("r" + count + "c" + i).innerHTML = data[i];
+    }
+    count++;
+}
