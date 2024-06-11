@@ -16,13 +16,13 @@
 				<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
 				<ul id="lists">
 					<h1>Procedure to Perform the Hall Effect</h1>
-					<h3>
+					<h2>
 						<li>Step 1: To measure the magnetic field generated in the solenoid</li>
 						<li>Step 2: Select Magnetic field Vs Current from the procedure selection-box.</li>
 						<li>Step 3: Click on probe to placing the probe in between the solenoid in the simulator.</li>
 						<li>Step 4: Using Current slider, varying the current through the solenoid and corresponding magnetic field is to be noted from Gauss meter.</li>
-					</h3>
-					    <h2>Hall Effect apparatus</h2><h3>
+					</h2>
+					    <h1>Hall Effect apparatus</h1><h3>
 						<li>Step 1:Select Hall Effect Setup from the Select the procedure combo box</li>
 						<li>Step 2:Click Hall Probe button to Placing the probe in between the solenoid by in the simulator.</li>
 						<li>Step 3:Set "current slider" value to minimum.</li>
@@ -792,19 +792,23 @@
 
 	</div>
 	<div>
-		<table id="tab1" width="70%" border="2px">
+
+		<h1 style="margin-left: 30%; margin-bottom: 30px; color: #025B19;"  >
+			Table for calculation of Magnetic field vs current.
+		</h1>
+		<table id="tab1" width="70%" border="2px" >
 			<tr>
 				<th>
 					Trial No:
 				</th>
 				<th>
-					Current Through Solenoid
+					Current Through Solenoid(A)
 				</th>
 				<th>
-					Magnetic Field Generated
+					Magnetic Field Generated(G)
 				</th>
 			</tr>
-			<tr>
+			<!-- <tr>
 				<td>
 					1.
 				</td>
@@ -847,10 +851,13 @@
 				<td>
 					<input type="number">
 				</td>
-			</tr>
+			</tr> -->
 		</table>
+		
 	</div>
-	
+	<div>
+		<button onclick="procedure()" style="margin-top:20px;margin-left:40%;background-color: #1e4a6e;color: white; cursor: pointer; padding: 10px; border-radius: 4px;">Add Row</button>
+	</div>
 	<br>
 	<br>
 	
@@ -891,10 +898,10 @@
 					<input type="number">
 				</td>
 				<td>
-					<div class="concentration"></div>
+					<input type="number">
 				</td>
 				<td>
-					<div class="coefficent"></div>
+		<input type="number">
 				</td>
 			</tr>
 			<tr>
@@ -911,10 +918,10 @@
 					<input type="number">
 				</td>
 				<td>
-					<div class="concentration"></div>
+					<input type="number">
 				</td>
 				<td>
-					<div class="coefficent"></div>
+		<input type="number">
 				</td>
 			</tr>
 			<tr>
@@ -931,10 +938,10 @@
 					<input type="number">
 				</td>
 				<td>
-					<div class="concentration"></div>
+					<input type="number">
 				</td>
 				<td>
-					<div class="coefficent"></div>
+		<input type="number">
 				</td>
 			</tr>
 			<tr>
@@ -951,10 +958,10 @@
 					<input type="number">
 				</td>
 				<td>
-					<div class="concentration"></div>
+					<input type="number">
 				</td>
 				<td>
-					<div class="coefficent"></div>
+		<input type="number">
 				</td>
 			</tr>
 			<tr>
@@ -971,10 +978,10 @@
 					<input type="number">
 				</td>
 				<td>
-					<div class="concentration"></div>
+					<input type="number">
 				</td>
 				<td>
-					<div class="coefficent"></div>
+		<input type="number">
 				</td>
 			</tr>
 			<tr>
@@ -991,10 +998,10 @@
 					<input type="number">
 				</td>
 				<td>
-					<div class="concentration"></div>
+					<input type="number">
 				</td>
 				<td>
-					<div class="coefficent"></div>
+		<input type="number">
 				</td>
 			</tr>
 
@@ -1002,7 +1009,7 @@
 	</div>
 
 	<p>
-
+Result:- 
 	</p>
 	<script src="./js/main.js"></script>
 </body>
