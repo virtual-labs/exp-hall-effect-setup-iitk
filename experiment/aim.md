@@ -1,1 +1,1 @@
-### Aim of the experiment
+To determine hall coefficient , carrier density and mobility of a given semiconductor material 
