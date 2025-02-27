@@ -10,10 +10,10 @@
         "d": "Coulomb's Law"
       },
       "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 2",
+        "a": "Explanation",
+        "b": "Explanation",
         "c": "The Hall Effect is the physical phenomenon observed when a current-carrying conductor or semiconductor is introduced to a perpendicular magnetic field, resulting in the generation of a measurable voltage perpendicular to both the current path and the magnetic field direction.",
-        "d": "Explanation 1 "
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Number of charge carriers per unit volume"
       },
       "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 2",
+        "a": "Explanation",
+        "b": "Explanation",
         "c": " 'I' in the formula for Hall voltage represents the current flowing through the sensor. This current interacts with the magnetic field to produce the Hall effect.",
-        "d": "Explanation 2"
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -44,9 +44,9 @@
         "d": "Lorentz force"
       },
       "explanations": {
-        "a": "Explanation 1  ",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
         "d": "The Lorentz force, which is the force experienced by a charged particle in a magnetic field, is responsible for deflecting charge carriers in the Hall Effect."
       },
       "correctAnswer": "d",
@@ -62,9 +62,9 @@
       },
       "explanations": {
         "a": " When a conductor or semiconductor is subjected to a magnetic field, the Lorentz force causes charge carriers to accumulate on opposite sides of the material, resulting in the development of a Hall voltage.",
-        "b": "Explanation 2",
-        "c": "Explanation 1  ",
-        "d": "Explanation 2"
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -79,9 +79,9 @@
       },
       "explanations": {
         "a": " The charge of the carrier directly affects the magnitude of the Hall voltage. A higher charge leads to a higher Hall voltage, all other factors being equal.",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
