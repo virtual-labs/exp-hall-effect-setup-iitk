@@ -1,0 +1,19 @@
+
+/home/runner/work/exp-hall-effect-setup-iitk/exp-hall-effect-setup-iitk/experiment/simulation/js/main.js
+   15:10  warning  'getammeter' is defined but never used          no-unused-vars
+   36:10  warning  'getThickness' is defined but never used        no-unused-vars
+   50:5   warning  'hallcurrent1' is not defined                   no-undef
+   51:68  warning  'hallcurrent1' is not defined                   no-undef
+   52:60  warning  'hallcurrent1' is not defined                   no-undef
+   58:10  warning  'getMaterial' is defined but never used         no-unused-vars
+  118:10  warning  'openNav' is defined but never used             no-unused-vars
+  123:10  warning  'closeNav' is defined but never used            no-unused-vars
+  134:7   warning  'procedure' is assigned a value but never used  no-unused-vars
+  151:10  warning  'i' is not defined                              no-undef
+  151:17  warning  'i' is not defined                              no-undef
+  151:34  warning  'i' is not defined                              no-undef
+  152:53  warning  'i' is not defined                              no-undef
+  152:73  warning  'i' is not defined                              no-undef
+
+✖ 14 problems (0 errors, 14 warnings)
+
